@@ -1,4 +1,4 @@
-# task-app
+# Task App Project with Vue 3
 
 ## Project setup
 ```
@@ -19,6 +19,10 @@ yarn build
 ```
 yarn lint
 ```
+
+## Credits
+
+[Jonas Oliveira](https://github.com/jonasnapoles) 
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
